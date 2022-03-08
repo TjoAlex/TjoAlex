@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/564x/68/6b/07/686b07e7a8a09447677e69f67ec8e784.jpg" height="175px"/></a>
-
 <h1 align="center"> Hello, I'm Alexandra 👋</h1>
 <h3 align="center"> Your passionate Junior Full Stack Developer from Sweden.</h3>
 
@@ -59,5 +57,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TjoAlex">
 </a>
-<a href="https://github.com/TjoAlex?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TjoAlex?tab=followers"><img src="https://img.shields.io/github/followers/TjoAlex?label=Followers&style=social" alt="GitHub Badge"></a>
     
