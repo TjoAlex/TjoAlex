@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://img2.freepng.es/20190723/ap/kisspng-clip-art-vector-graphics-woman-businessperson-illu-zentek-n-muhasebe-ynetim-sistemi-5d36f7d6886e27.4586538715638834785588.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/564x/68/6b/07/686b07e7a8a09447677e69f67ec8e784.jpg" height="175px"/></a>
 
 <h1 align="center"> Hello, I'm Alexandra 👋</h1>
 <h3 align="center"> Your passionate Junior Full Stack Developer from Sweden.</h3>
@@ -51,8 +51,13 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/alexandra-liljeqvist/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.instagram.com/tjoalex/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TjoAlex&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TjoAlex">
+</a>
+<a href="https://github.com/TjoAlex?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
     
