@@ -47,10 +47,10 @@
 
 
 <a href="https://github.com/TjoAlex/constructionconsultant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=constructionconsultant&theme=buefy" />
 </a>
 <a href="https://github.com/TjoAlex/Cooking-It">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=TjoAlex.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=Cooking-It&theme=buefy" />
 </a>
 
 <br/>
