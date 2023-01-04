@@ -43,7 +43,15 @@
 <br/>
 <br/>
 
-<a href="https://github.com/TjoAlex/github-readme-activity-graph"><img alt="TjoAlex Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TjoAlex&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+#### Top Repositories
+
+
+<a href="https://github.com/TjoAlex/constructionconsultant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/TjoAlex/Cooking-It">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=TjoAlex.github.io&theme=buefy" />
+</a>
 
 <br/>
 <br/>
