@@ -35,7 +35,8 @@
     <a href="https://github.com/TjoAlex/github-readme-stats"><img alt="TjoAlex Github Stats" src="https://github-readme-stats.vercel.app/api?username=TjoAlex&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/TjoAlex/github-readme-stats"><img alt="TjoAlex Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjoAlex&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   //test
-  [![TjoAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=TjoAlex)](https://github.com/TjoAlex/github-readme-stats)
+ 
+  | <a href="https://github.com/TjoAlex/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TjoAlex&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TjoAlex's github stats" /></a> | <a href="https://github.com/TjoAlex/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjoAlex&layout=compact&theme=buefy&hide_border=true" /></a> |
   
 
 
