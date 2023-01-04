@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Fitnology
-- 🌱 I’m currently learning more about Django and MongoDB
+- 🔭 I’m currently working on APIs
+- 🌱 I’m currently learning more about Web API and Application Language
 - 💬 Ask me about UX or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @alexandra-liljeqvist](https://www.linkedin.com/in/alexandra-liljeqvist/), by mail **alle.98@live.se**
 - ⚡ Fun fact: Dogs make me so happy that I could cry only by seeing them, especially hugging them.
@@ -45,12 +45,17 @@
 
 #### Top Repositories
 
-
 <a href="https://github.com/TjoAlex/constructionconsultant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=constructionconsultant&theme=buefy" />
 </a>
 <a href="https://github.com/TjoAlex/Cooking-It">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=Cooking-It&theme=buefy" />
+</a>
+<a href="https://github.com/TjoAlex/fitnology">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=fitnology&theme=buefy" />
+</a>
+<a href="https://github.com/TjoAlex/color-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=color-game&theme=buefy" />
 </a>
 
 <br/>
