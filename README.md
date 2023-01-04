@@ -51,12 +51,6 @@
 <a href="https://github.com/TjoAlex/Cooking-It">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=Cooking-It&theme=buefy" />
 </a>
-<a href="https://github.com/TjoAlex/fitnology">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=fitnology&theme=buefy" />
-</a>
-<a href="https://github.com/TjoAlex/color-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TjoAlex&repo=color-game&theme=buefy" />
-</a>
 
 <br/>
 <br/>
